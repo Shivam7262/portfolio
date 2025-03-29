@@ -11,7 +11,7 @@ const Skills = () => {
     },
     {
       title: "Other Skills",
-      skills: ["Data Structures", "Algorithms", "Soft Skills"]
+      skills: ["Data Structures and Algorithms", "Soft Skills"]
     }
   ];
 
