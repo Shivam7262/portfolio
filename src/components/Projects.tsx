@@ -12,7 +12,8 @@ const Projects = () => {
         "Interactive menu browsing with categories and search functionality",
         "Real-time order tracking and status updates",
         "Cart management with quantity adjustments and order summary",
-        "Responsive design for optimal experience across all devices"
+        "Responsive design for optimal experience across all devices",
+        " Smart AI Chatbot – Our website includes an intelligent AI-powered chatbot that helps users"
       ],
       technologies: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
       github: "https://github.com/Shivam7262/Crave-kart.git",
