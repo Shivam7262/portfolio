@@ -31,7 +31,7 @@ const Projects = () => {
       ],
       technologies: ["MongoDB", "Express", "React", "Node.js"],
       github: "https://github.com/Shivam7262/Expenza",
-      demo: "#"
+      demo: "https://expenzaa.netlify.app/"
     },
     {
       title: "Portfolio Website",
