@@ -17,7 +17,7 @@ const Projects = () => {
       ],
       technologies: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
       github: "https://github.com/Shivam7262/Crave-kart.git",
-      demo: "#"
+      demo: "https://crave-kart.vercel.app/"
     },
     {
       title: "Expenza",
@@ -30,7 +30,7 @@ const Projects = () => {
         "Real-time Final Balance – Always see the updated financial summary."
       ],
       technologies: ["MongoDB", "Express", "React", "Node.js"],
-      github: "#",
+      github: "https://github.com/Shivam7262/Expenza",
       demo: "#"
     },
     {
@@ -43,8 +43,8 @@ const Projects = () => {
         "Performance Optimized - Fast loading times"
       ],
       technologies: ["React", "Tailwind CSS", "JavaScript"],
-      github: "#",
-      demo: "#"
+      github: "https://github.com/Shivam7262/portfolio",
+      demo: "https://portfolio-liart-five-69.vercel.app/"
     }
   ];
 

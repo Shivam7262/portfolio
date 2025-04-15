@@ -25,12 +25,12 @@ const About = () => {
               </div>
             </div>
             
-            <a 
+            {/* <a 
               href="#contact" 
               className="inline-block px-6 py-3 bg-accent text-white rounded-md hover:bg-accent/90 transition-colors"
             >
               Get In Touch
-            </a>
+            </a> */}
           </div>
           
           <div className="animate-slide-up" style={{ animationDelay: '0.2s' }}>
@@ -66,7 +66,7 @@ const About = () => {
                     rel="noopener noreferrer"
                     className="col-span-2 text-accent hover:underline break-words"
                   >
-                    shivam-kumar-05428726
+                    LinkedIn
                   </a>
                 </div>
               </div>
