@@ -69,6 +69,18 @@ const About = () => {
                     LinkedIn
                   </a>
                 </div>
+                <div className="grid grid-cols-3 pb-3">
+                  <span className="font-medium text-gray-600">Github:</span>
+                  <a 
+                    href="https://github.com/Shivam7262" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="col-span-2 text-accent hover:underline break-words"
+                  >
+                    GitHub
+                  </a>
+                </div>
+
               </div>
             </div>
           </div>
