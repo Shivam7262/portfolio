@@ -16,7 +16,7 @@ const Footer = () => {
             
             <div className="text-center md:text-right">
               <p className="text-sm flex items-center justify-center md:justify-end">
-                Made with <Heart size={14} className="text-accent mx-1" fill="currentColor" /> by Shivam Kumar
+                Made by Shivam Kumar
               </p>
               <p className="text-xs text-gray-400 mt-1">
                 &copy; {currentYear} All rights reserved
