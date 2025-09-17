@@ -17,7 +17,7 @@ const Projects = () => {
       ],
       technologies: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
       github: "https://github.com/Shivam7262/Crave-kart.git",
-      demo: "https://crave-kart.vercel.app/"
+      Live Preview: "https://crave-kart-frontend.onrender.com"
     },
     {
       title: "Expenza",
@@ -32,19 +32,6 @@ const Projects = () => {
       technologies: ["MongoDB", "Express", "React", "Node.js"],
       github: "https://github.com/Shivam7262/Expenza",
       demo: "https://expenzaa.netlify.app/"
-    },
-    {
-      title: "Portfolio Website",
-      description: "A modern, responsive portfolio website built with React and Tailwind CSS",
-      features: [
-        "Responsive Design - Optimized for all devices",
-        "Modern UI/UX - Clean and intuitive interface",
-        "Interactive Elements - Engaging user experience",
-        "Performance Optimized - Fast loading times"
-      ],
-      technologies: ["React", "Tailwind CSS", "JavaScript"],
-      github: "https://github.com/Shivam7262/portfolio",
-      demo: "https://portfolio-liart-five-69.vercel.app/"
     }
   ];
 
