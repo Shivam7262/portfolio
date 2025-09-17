@@ -6,8 +6,7 @@ const Education = () => {
     {
       degree: "Bachelor of Technology (CSE)",
       institution: "IILM College of Engineering & Technology",
-      duration: "2021-2025",
-      ongoing: true
+      duration: "2021-2025"
     },
     {
       degree: "Intermediate",
@@ -52,11 +51,11 @@ const Education = () => {
                   <div className="flex items-center mb-2">
                     <GraduationCap className="text-accent mr-2" size={20} />
                     <h3 className="text-xl font-bold">{item.degree}</h3>
-                    {item.ongoing && (
+                    {/* {item.ongoing && (
                       <span className="ml-2 px-2 py-0.5 text-xs bg-green-100 text-green-800 rounded-full">
                         Ongoing
                       </span>
-                    )}
+                    )} */}
                   </div>
                   
                   <h4 className="text-lg text-gray-700 mb-2">{item.institution}</h4>

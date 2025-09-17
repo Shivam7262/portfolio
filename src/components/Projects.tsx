@@ -17,7 +17,7 @@ const Projects = () => {
       ],
       technologies: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
       github: "https://github.com/Shivam7262/Crave-kart.git",
-      Live Preview: "https://crave-kart-frontend.onrender.com"
+      demo: "https://crave-kart-frontend.onrender.com"
     },
     {
       title: "Expenza",
@@ -32,6 +32,22 @@ const Projects = () => {
       technologies: ["MongoDB", "Express", "React", "Node.js"],
       github: "https://github.com/Shivam7262/Expenza",
       demo: "https://expenzaa.netlify.app/"
+    },
+    {
+      title: "🌍Next Stop",
+      description: "A smart travel discovery platform that helps users explore destinations across the world with AI-powered content generation and curated travel insights.",
+      features: [
+        "User authentication with secure login and registration flow",
+        "AI-Powered Destination Creation – Add new destinations easily by providing just the name and a short description; AI generates the full travel guide.",
+        "Comprehensive travel guides with information on best time to visit, budget, attractions, activities, local cuisine, famous cuisines, and popular restaurants",
+        "Interactive search and browsing with categories, filters, and global coverage",
+        "User reviews – Share authentic experiences and ratings for destinations",
+        "Travel blogs – Write and read blogs to exchange stories, tips, and recommendations",
+        "Responsive design for optimal experience across all devices"
+      ],
+      technologies: ["Spring-boot", "React","Tailwind CSS", "MySQL"],
+      github: "",
+      demo: ""
     }
   ];
 

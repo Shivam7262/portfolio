@@ -27,8 +27,7 @@ const Hero = () => {
             </h1>
             <h2 className="text-3xl font-medium mb-6 text-gray-700">B.Tech CSE Graduate</h2>
             <p className="text-lg text-gray-600 mb-8 max-w-lg">
-              Innovative problem-solver with a passion for modern technologies 
-              and creating efficient solutions. Looking for opportunities to make an impact.
+              I’m a software engineer skilled in React, Spring Boot, Node.js, MySQL, and MongoDB. I focus on building scalable, user-friendly applications and love integrating AI for smarter solutions.
             </p>
             <div className="flex flex-wrap gap-4">
               {/* <a 
@@ -49,7 +48,7 @@ const Hero = () => {
           <div className={`justify-self-center md:justify-self-end transition-all duration-1000 delay-300 transform ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img 
-                src="/lovable-uploads/f897e444-1a06-4b5d-b922-add9075402d2.png" 
+                src="/lovable-uploads/dp.jpeg" 
                 alt="Shivam Kumar" 
                 className="w-full h-full object-cover"
               />
